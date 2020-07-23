@@ -4,7 +4,7 @@ from locust import HttpUser, task, between
 
 class QuickstartUser(HttpUser):
     wait_time = between(2, 4)
-    sensors = ["smart", "lambo", "angela merte"]
+    sensors = ["smart", "porsche", "angelo merte"]
     headers = {'content-type': 'text/plain'}
 
     @task
