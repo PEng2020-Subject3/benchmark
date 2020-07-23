@@ -1,2 +1,0 @@
-Method,Name,Error,Occurrences
-GET,//function/performance-scores?policy=gdpr,404 Client Error: Not Found for url: http://a0538493eded44c14b69d2a47e47b24d-1449278838.us-east-1.elb.amazonaws.com:8080/function/performance-scores?policy=gdpr,16
